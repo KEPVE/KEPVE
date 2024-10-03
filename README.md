@@ -1,4 +1,5 @@
-### Hi there 👋
+### XD! I'm KEPVE,A first-year college student from China!
+### It's a nice day , auh?
 
 <!--
 **KEPVE/KEPVE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
